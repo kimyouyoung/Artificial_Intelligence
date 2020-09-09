@@ -1,4 +1,3 @@
-
 ### Homework: solution
 
 
@@ -12,5 +11,5 @@
 
     * 출력 $\hat{y}$를 계산한다. 즉 $\hat{y} = h\mathbf{(w^Tx)}$
     * 가중치 $w_{j}$를 조정한다. 즉 $w_{j} := w_{j} + ∆w_{j}$
-<img src="https://github.com/kimyouyoung/JoyAIx/blob/master/images/latex_example.JPG?raw=true" width=116>
+<img src="https://github.com/idebtor/KMOOC-ML/blob/master/ipynb/images/person.png?raw=true" width=150>
 <center>그림 4: 마크다운 문서 작성하기</center>
